@@ -1,0 +1,123 @@
+{
+    "brands" : [{
+        "name": "Volvo",
+        "yearOfFoundation": "1927",
+        "country": "Sweden",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/se.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1094.jpg"
+    },{
+        "name": "Volkswagen",
+        "yearOfFoundation": "1938",
+        "country": "Germany",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/de.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1093.jpg"
+    },{
+        "name": "Toyota",
+        "yearOfFoundation": "1936",
+        "country": "Japan",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/jp.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1076.jpg"
+    },{
+        "name": "Ford",
+        "yearOfFoundation": "1903",
+        "country": "USA",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/us.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1077.jpg"
+    },{
+        "name": "Mercedes-Benz",
+        "yearOfFoundation": "1926",
+        "country": "Germany",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/de.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1078.jpg"
+    },{
+        "name": "BMW",
+        "yearOfFoundation": "1927",
+        "country": "Germany",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/de.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1184.jpg"
+    },{
+        "name": "Audi",
+        "yearOfFoundation": "1965",
+        "country": "Germany",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/de.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1103.jpg"
+    },{
+        "name": "Renault",
+        "yearOfFoundation": "1898",
+        "country": "France",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/fr.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1090.jpg"
+    },{
+        "name": "Peugeot",
+        "yearOfFoundation": "1932",
+        "country": "France",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/fr.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1089.jpg"
+    },{
+        "name": "Skoda",
+        "yearOfFoundation": "1934",
+        "country": "Czech Republic",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/cz.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1092.jpg"
+    },{
+        "name": "Nissan",
+        "yearOfFoundation": "1951",
+        "country": "Japan",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/jp.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1087.jpg"
+    },{
+        "name": "Opel",
+        "yearOfFoundation": "1924",
+        "country": "Germany",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/de.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1088.jpg"
+    },{
+        "name": "Hyundai",
+        "yearOfFoundation": "1968",
+        "country": "South Korea",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/kr.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1083.jpg"
+    },{
+        "name": "Citroén",
+        "yearOfFoundation": "1919",
+        "country": "France",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/fr.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1081.jpg"
+    },{
+        "name": "Mazda",
+        "yearOfFoundation": "1970",
+        "country": "Japan",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/jp.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1086.jpg"
+    },{
+        "name": "Chevrolet",
+        "yearOfFoundation": "1912",
+        "country": "USA",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/us.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1080.jpg"
+    },{
+        "name": "Mitsubishi",
+        "yearOfFoundation": "1969",
+        "country": "Japan",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/jp.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1085.jpg"
+    },{
+        "name": "Honda",
+        "yearOfFoundation": "1949",
+        "country": "Japan",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/jp.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1082.jpg"
+    },{
+        "name": "Fiat",
+        "yearOfFoundation": "1919",
+        "country": "Italy",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/it.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/1097.jpg"
+    },{
+        "name": "Tesla",
+        "yearOfFoundation": "1951",
+        "country": "Japan",
+        "countryFlag": "https://s.car.info/g/flags/svg/mini/jp.svg",
+        "brandLogo":"https://s.car.info/image_files/logos/90/821.jpg"
+    }]
+}
