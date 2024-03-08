@@ -9,10 +9,10 @@ function Header() {
       </div>
       <div>
         <ul className='flex items-center justify-center'>
-          <li className='mx-2 hover:bg-black hover:text-white px-4 py-2 rounded-xl'><Link href="/">Home</Link></li>
-          <li className='mx-2 hover:bg-black hover:text-white px-4 py-2 rounded-xl'><Link href="/brands">Brands</Link></li>
-          <li className='mx-2 hover:bg-black hover:text-white px-4 py-2 rounded-xl'><Link href="/cars">Cars</Link></li>
-          <li className='mx-2 hover:bg-black hover:text-white px-4 py-2 rounded-xl'><Link href="/contact">Contact</Link></li>
+          <li className=' mx-2 hover:bg-black hover:text-white px-4 py-2 rounded-xl'><Link href="/">Home</Link></li>
+          <li className=' mx-2 hover:bg-black hover:text-white px-4 py-2 rounded-xl'><Link href="/brands">Brands</Link></li>
+          <li className=' mx-2 hover:bg-black hover:text-white px-4 py-2 rounded-xl'><Link href="/cars">Cars</Link></li>
+          <li className=' mx-2 hover:bg-black hover:text-white px-4 py-2 rounded-xl'><Link href="/contact">Contact</Link></li>
         </ul>
       </div>
     </div>

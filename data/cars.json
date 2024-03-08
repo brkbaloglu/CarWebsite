@@ -1,0 +1,111 @@
+{
+    "cars": [{
+        "carBrand": "Volvo",
+        "carSeries": "C40",
+        "averagePrice": "55315"
+    },{
+        "carBrand": "Volvo",
+        "carSeries": "S90",
+        "averagePrice": "31324"
+    },{
+        "carBrand": "Volkswagen",
+        "carSeries": "Golf",
+        "averagePrice": "11740"
+    },{
+        "carBrand": "Toyota",
+        "carSeries": "Corolla",
+        "averagePrice": "4886"
+    },{
+        "carBrand": "Ford",
+        "carSeries": "Focus",
+        "averagePrice": "10279"
+    },{
+        "carBrand": "Ford",
+        "carSeries": "Mustang",
+        "averagePrice": "27319"
+    },{
+        "carBrand": "Mercedes",
+        "carSeries": "Vito",
+        "averagePrice": "22022"
+    },{
+        "carBrand": "BMW",
+        "carSeries": "3 Series",
+        "averagePrice": "12729"
+    },{
+        "carBrand": "Audi",
+        "carSeries": "A3",
+        "averagePrice": "15657"
+    },{
+        "carBrand": "Audi",
+        "carSeries": "Q7",
+        "averagePrice": "36210"
+    },{
+        "carBrand": "Renault",
+        "carSeries": "Clio",
+        "averagePrice": "7676"
+    },{
+        "carBrand": "Renault",
+        "carSeries": "Mégane",
+        "averagePrice": "6629"
+    },{
+        "carBrand": "Peugeot",
+        "carSeries": "508",
+        "averagePrice": "13699"
+    },{
+        "carBrand": "Skoda",
+        "carSeries": "Kodiaq",
+        "averagePrice": "31804"
+    },{
+        "carBrand": "Skoda",
+        "carSeries": "Octavia",
+        "averagePrice": "10276"
+    },{
+        "carBrand": "Skoda",
+        "carSeries": "Superb",
+        "averagePrice": "17126"
+    },{
+        "carBrand": "Nissan",
+        "carSeries": "Qashqai",
+        "averagePrice": "10472"
+    },{
+        "carBrand": "Opel",
+        "carSeries": "Astra",
+        "averagePrice": "6854"
+    },{
+        "carBrand": "Opel",
+        "carSeries": "Insignia",
+        "averagePrice": "11259"
+    },{
+        "carBrand": "Hyundai",
+        "carSeries": "i20",
+        "averagePrice": "11956"
+    },{
+        "carBrand": "Hyundai",
+        "carSeries": "Tucson",
+        "averagePrice": "19544"
+    },{
+        "carBrand": "Citroén",
+        "carSeries": "C3",
+        "averagePrice": "6805"
+    },{
+        "carBrand": "Mazda",
+        "carSeries": "CX-30",
+        "averagePrice": "29062"
+    },{
+        "carBrand": "Chevrolet",
+        "carSeries": "Corvette",
+        "averagePrice": "36915"
+    },{
+        "carBrand": "Honda",
+        "carSeries": "Civic",
+        "averagePrice": "11123"
+    },{
+        "carBrand": "Fiat",
+        "carSeries": "Ducato",
+        "averagePrice": "18110"
+    },{
+        "carBrand": "Tesla",
+        "carSeries": "Model Y",
+        "averagePrice": "53728"
+    }]
+}
